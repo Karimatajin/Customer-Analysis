@@ -8,5 +8,5 @@ This project is using SQL Server, Power BI & Python. I will cover the following 
 3. Power BI Transformations
 4. Power BI Visualization & Enhancing Visuals
 5. Build Machine Learning Model - Random Forest in Jupyter Notebook
-6. Visualize Predicted Data in Power BI - Predicted Churner Profile
-![image](https://github.com/user-attachments/assets/5cf45293-18bc-4da2-bc68-3e1dbbc09334)
+![image](https://github.com/user-attachments/assets/5ff8e636-b069-47ef-910f-db222221510b)
+
